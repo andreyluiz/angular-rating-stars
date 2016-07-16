@@ -1,0 +1,17 @@
+{
+  "name": "angular-rating-stars",
+  "homepage": "https://github.com/andreyluiz/angular-rating-stars",
+  "authors": [
+    "Andrey Luiz <andreyluiz.developer@gmail.com>"
+  ],
+  "description": "A simple Angular JS directive to show star ratings.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
