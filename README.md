@@ -9,7 +9,10 @@ A simple Angular JS directive to show star ratings.
 
 2) Add it to your `index.html`:
 
-`<script src="bower_components/angular-rating-stars/angular-rating-stars.js"></script>`
+ ```
+ <link rel="stylesheet" href="bower_components/Ionicons/css/ionicons.min.css"> <!-- not ionic -->
+ <script src="bower_components/angular-rating-stars/angular-rating-stars.js"></script>`
+ ```
 
 3) Register the dependency in the desired angular module:
 
