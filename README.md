@@ -40,7 +40,7 @@ i.custom-star {
   color: #FF9800;
 }
 ```
-
+![](http://i.imgur.com/uwHZhjL.png)
 
 ## Advice
 A half star takes from 0.1 to 0.9. So, the 4.1 rating will still show as the result above.
