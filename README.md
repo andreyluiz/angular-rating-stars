@@ -32,5 +32,7 @@ A simple Angular JS directive to show star ratings.
 
 ![](http://i.imgur.com/eUYrFiz.png)
 
+> The colors and the size were styled by me and are merely illustrative.
+
 ## Advice
 A half star takes from 0.1 to 0.9. So, the 4.1 rating will still show as the result above.
